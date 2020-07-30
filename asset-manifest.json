@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/video-recording/static/css/main.8b83d997.chunk.css",
-    "main.js": "/video-recording/static/js/main.fb34f29b.chunk.js",
-    "main.js.map": "/video-recording/static/js/main.fb34f29b.chunk.js.map",
+    "main.css": "/video-recording/static/css/main.ffe2ec3e.chunk.css",
+    "main.js": "/video-recording/static/js/main.aa274955.chunk.js",
+    "main.js.map": "/video-recording/static/js/main.aa274955.chunk.js.map",
     "runtime-main.js": "/video-recording/static/js/runtime-main.fe5dafff.js",
     "runtime-main.js.map": "/video-recording/static/js/runtime-main.fe5dafff.js.map",
     "static/js/2.5651cf6f.chunk.js": "/video-recording/static/js/2.5651cf6f.chunk.js",
     "static/js/2.5651cf6f.chunk.js.map": "/video-recording/static/js/2.5651cf6f.chunk.js.map",
     "index.html": "/video-recording/index.html",
-    "precache-manifest.d46eba7c6876e4484aee516e6537cf2a.js": "/video-recording/precache-manifest.d46eba7c6876e4484aee516e6537cf2a.js",
+    "precache-manifest.57a8a3354df062f3906557c7e7230abd.js": "/video-recording/precache-manifest.57a8a3354df062f3906557c7e7230abd.js",
     "service-worker.js": "/video-recording/service-worker.js",
-    "static/css/main.8b83d997.chunk.css.map": "/video-recording/static/css/main.8b83d997.chunk.css.map",
+    "static/css/main.ffe2ec3e.chunk.css.map": "/video-recording/static/css/main.ffe2ec3e.chunk.css.map",
     "static/js/2.5651cf6f.chunk.js.LICENSE.txt": "/video-recording/static/js/2.5651cf6f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fe5dafff.js",
     "static/js/2.5651cf6f.chunk.js",
-    "static/css/main.8b83d997.chunk.css",
-    "static/js/main.fb34f29b.chunk.js"
+    "static/css/main.ffe2ec3e.chunk.css",
+    "static/js/main.aa274955.chunk.js"
   ]
 }
