@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/video-recording/static/css/main.77106eef.chunk.css",
-    "main.js": "/video-recording/static/js/main.54ff24fb.chunk.js",
-    "main.js.map": "/video-recording/static/js/main.54ff24fb.chunk.js.map",
+    "main.js": "/video-recording/static/js/main.bb8ebcc1.chunk.js",
+    "main.js.map": "/video-recording/static/js/main.bb8ebcc1.chunk.js.map",
     "runtime-main.js": "/video-recording/static/js/runtime-main.fe5dafff.js",
     "runtime-main.js.map": "/video-recording/static/js/runtime-main.fe5dafff.js.map",
     "static/js/2.a483e7f6.chunk.js": "/video-recording/static/js/2.a483e7f6.chunk.js",
     "static/js/2.a483e7f6.chunk.js.map": "/video-recording/static/js/2.a483e7f6.chunk.js.map",
     "index.html": "/video-recording/index.html",
-    "precache-manifest.4ae31765ca1808488c5e3d64eb367423.js": "/video-recording/precache-manifest.4ae31765ca1808488c5e3d64eb367423.js",
+    "precache-manifest.21ed2f9cb3dbb34530afd217956d7feb.js": "/video-recording/precache-manifest.21ed2f9cb3dbb34530afd217956d7feb.js",
     "service-worker.js": "/video-recording/service-worker.js",
     "static/css/main.77106eef.chunk.css.map": "/video-recording/static/css/main.77106eef.chunk.css.map",
     "static/js/2.a483e7f6.chunk.js.LICENSE.txt": "/video-recording/static/js/2.a483e7f6.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fe5dafff.js",
     "static/js/2.a483e7f6.chunk.js",
     "static/css/main.77106eef.chunk.css",
-    "static/js/main.54ff24fb.chunk.js"
+    "static/js/main.bb8ebcc1.chunk.js"
   ]
 }
