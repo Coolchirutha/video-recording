@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,gBACC,iBAAkB,CAClB,kBACD,CAEA,cACC,iBAAkB,CAClB,KAAM,CACN,MACD","file":"main.63f3e95f.chunk.css","sourcesContent":[".player-wrapper {\r\n\tposition: relative;\r\n\tpadding-top: 56.25%; /* Player ratio: 100 / (1280 / 720) */\r\n}\r\n\r\n.react-player {\r\n\tposition: absolute;\r\n\ttop: 0;\r\n\tleft: 0;\r\n}\r\n"]}
